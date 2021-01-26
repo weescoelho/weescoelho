@@ -1,4 +1,9 @@
-### Hi there 👋
+## Olá! Bem vindo(a) ao meu Github!👋
+
+Olá me chamo Weslley Coelho , sou Desenvolvedor Front-end e graduando em análise e desenvolvimento de sistemas.
+Simplesmente apaixonado por tecnologia e desenvolvimento web 😍
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-coelho18/)
 
 <!--
 **weescoelho/weescoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
