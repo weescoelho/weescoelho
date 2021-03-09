@@ -20,7 +20,7 @@ Simply passionate about technology and web development. 😍
 <img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=weescoelho&theme=blue-green)
 
 <!--
 **weescoelho/weescoelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
