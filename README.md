@@ -1,6 +1,13 @@
 ## Hello! Welcome to my Github!👋
 
-Hi, my name is Weslley Coelho, I am a Fullstack Developer, focusing on Front-end. Simply passionate about technology and web / mobile development. 😍
+Hello, my name is Weslley, simply passionate about technology and web / mobile development 😍 get to know a little about my story.
+
+Working on the front-end with Next.js, React.js, Vue 3 (hard skill in development), HTML, CSS3, Javascript / TypeScript, web sockets, API consume (Rest and GraphQL), Angular 12, frameworks CSS like Tailwind, Chakra UI, Styled-Components, use of auxiliary tools like Figma, AdobeXD, Webpack, Vite, Rollup, Parcel, Plop.js
+
+Experience in back-end development using Node.js, Nest.js, relational database and NoSQL databases, Cron, PrismaORM, design patterns, studying the application of robust architectures such as DDD, Clean Architecture , microservices, Go language and creating a background in cloud architecture. Take contact with PHP, using Laravel.
+Development of mobile applications with React Native, using Expo.
+
+Use of testing tools: Jest, Cypress, Vitest, React Testing Library.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/weslley-coelho18/)
 
